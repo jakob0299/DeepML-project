@@ -15,3 +15,9 @@ data/**/*.bin
 out*/
 *.pt
 wandb/
+
+__pycache__/
+out*/
+data/
+*.pt
+.venv/
