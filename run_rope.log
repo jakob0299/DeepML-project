@@ -1,0 +1,5 @@
+Command 'ipython' not found, did you mean:
+  command 'bpython' from deb bpython (0.24-1)
+  command 'ipython3' from deb ipython3 (8.14.0-2)
+  command 'xpython' from deb xpython (0.15.10+~0.6.1-1)
+Try: apt install <deb name>
