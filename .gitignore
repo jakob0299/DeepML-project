@@ -21,3 +21,5 @@ out*/
 data/
 *.pt
 .venv/
+
+pre_trained_checkpoints/
